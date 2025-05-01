@@ -4,7 +4,7 @@ description: A web application for face detection and recognition using deep lea
 author: hamdanalhajeri
 date: 2025-05-01
 categories: [Projects, AI, Computer Vision]
-tags: [face-recognition, deep-learning, arcface, flask, react, docker, python, tensorflow, opencv]
+tags: [face-recognition, flask, react, docker, python, tensorflow, opencv]
 pin: false
 ---
 
