@@ -2,7 +2,7 @@
 title: Face Recognition
 description: A web application for face detection and recognition using deep learning models. This system can detect faces in images, extract facial features, and compare facial similarities against reference images.
 author: hamdanalhajeri
-date: 2025-01-05
+date: 2025-05-01
 categories: [Projects, AI, Computer Vision]
 tags: [face-recognition, deep-learning, arcface, flask, react, docker, python, tensorflow, opencv]
 pin: false
