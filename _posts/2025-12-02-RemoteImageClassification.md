@@ -2,7 +2,7 @@
 title: Remote Sensing Image Classification with YOLOv8
 description: YOLOv8-based object detection system for remote sensing imagery using the DIOR dataset, with both CPU and GPU training support.
 author: hamdanalhajeri
-date: 2024-12-02 14:00:00 +0000
+date: 2025-12-02 14:00:00 +0000
 categories: [Projects, AI, Computer Vision]
 tags: [python, yolov8, machine-learning, computer-vision, remote-sensing, object-detection, jupyter]
 pin: false

@@ -2,7 +2,7 @@
 title: UDP Multicast Video Streaming System
 description: A Python-based UDP multicast sender/receiver system for real-time video streaming with jitter buffer, file reconstruction, and live playback support.
 author: hamdanalhajeri
-date: 2024-11-28 16:00:00 +0000
+date: 2025-11-28 16:00:00 +0000
 categories: [Projects, Networking]
 tags: [python, networking, udp, multicast, video-streaming, real-time]
 pin: false
